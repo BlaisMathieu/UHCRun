@@ -1,0 +1,12 @@
+name: UHCRunManager
+version: 1.0
+author: Canjas
+main: Canjas.UHCRunManager
+api-version: 1.16
+commands:
+  runstart:
+    description: launch
+    permission: samuel.use
+  runstop:
+    description: stop uchrun
+    permission: samuel.use
