@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="UHCRunManager:jar">
+    <output-path>$PROJECT_DIR$/../../serv/plugins</output-path>
+    <root id="archive" name="UHCRunManager.jar">
+      <element id="module-output" name="UHCRunManager" />
+    </root>
+  </artifact>
+</component>

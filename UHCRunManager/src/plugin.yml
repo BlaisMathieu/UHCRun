@@ -5,8 +5,9 @@ main: Canjas.UHCRunManager
 api-version: 1.16
 commands:
   runstart:
-    description: launch
+    description: launch uchrun
     permission: samuel.use
   runstop:
     description: stop uchrun
     permission: samuel.use
+load: STARTUP
